@@ -13,7 +13,7 @@
 
 ## Acerca de mi :grin:
 <ul>
-  <li>Estudiante de Ingeniería Informática y de Sistemas</li>
+  <li>Estudiante de Ingeniería Informática y de Sistemas.</li>
   <li>
     <strong>Habilidades Técnicas:</strong>
     <ul>
@@ -33,7 +33,7 @@
       <li>Proactividad</li>
       <li>Creatividad</li>
       <li>Adaptabilidad</li>
-      <li>Organización</li>
+      <li>Trabajo en equipo</li>
       <li>Liderazgo</li>
     </ul>
   </li>
@@ -46,34 +46,26 @@
   <a align="center" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,github,git,linux,postman,webpack" /></a>
 </p>
 
-## Mis proyectos y contribuciones :man_office_worker:
+## Algunos de mis proyectos y contribuciones :man_office_worker:
 <table>
   <tr>
-    <td>
-      <img src="proyecto1.jpg" alt="Proyecto 1">
+    <td align="center" width="33%">
+      <img src="https://i.imgur.com/g93w8HU.png" alt="Proyecto 1">
+      <h2>Asap Services</h2>
+      <p><strong>Rol:</strong> Desarrollador Backend</p>
+      <p><strong>Descripción:</strong> Sistema diseñado para conectar a usuarios con proveedores de servicios en el ámbito del hogar.</p>
     </td>
-    <td>
-      <h3>Proyecto 1</h3>
-      <p>Rol: Backend Developer</p>
-      <p>Descripción: [Breve descripción sobre el proyecto 1]</p>
+    <td align="center" width="34%">
+      <img src="https://i.imgur.com/P4NHqKz.png" alt="Proyecto 2">
+      <h2><a href="https://www.ksperu.com/">KSPERU</a></h2>
+      <p><strong>Rol:</strong> Lider de proyecto</p>
+      <p><strong>Descripción:</strong> Sitio web realizado para brindar servicios de transformación a usuarios.</p>
     </td>
-    <td>
-      <img src="proyecto2.jpg" alt="Proyecto 2">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Proyecto 2</h3>
-      <p>Rol: Frontend Developer</p>
-      <p>Descripción: [Breve descripción sobre el proyecto 2]</p>
-    </td>
-    <td>
-      <img src="proyecto3.jpg" alt="Proyecto 3">
-    </td>
-    <td>
-      <h3>Proyecto 3</h3>
-      <p>Rol: Full Stack Developer</p>
-      <p>Descripción: [Breve descripción sobre el proyecto 3]</p>
+    <td align="center" width="33%">
+      <img src="https://i.imgur.com/tHB1ElU.png" alt="Proyecto 3">
+      <h2>Eventos</h2>
+      <p><strong>Rol:</strong> Full Stack</p>
+      <p><strong>Descripción:</strong> Sistema que genera QR por usuario para colaboradores de eventos y ser repartidos a los invitados.</p>
     </td>
   </tr>
 </table>
