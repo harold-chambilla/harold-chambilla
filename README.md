@@ -14,16 +14,36 @@
 ## Acerca de mi :grin:
 <ul>
   <li>Estudiante de Ingeniería Informática y de Sistemas</li>
-  <li><strong>Habilidades:</strong> Backend, Frontend, Despliegue de aplicaciones, Base de datos, Arquitectura de Software, Seguridad Informática, Calidad de Software, Metodologías Ágiles, Resolución de Problemas</li>
-  <li><strong>Aptitudes:</strong> Proactividad, Creatividad, Adaptabilidad, Organización, Liderazgo</li>
+  <li>
+    <strong>Habilidades Técnicas:</strong>
+    <ul>
+      <li>Full Stack</li>
+      <li>Despliegue de aplicaciones</li>
+      <li>Base de datos</li>
+      <li>Arquitectura de Software</li>
+      <li>Seguridad Informática</li>
+      <li>Calidad de Software</li>
+      <li>Metodologías Ágiles</li>
+      <li>Resolución de Problemas</li>
+    </ul>
+  </li>
+  <li>
+    <strong>Aptitudes:</strong>
+    <ul>
+      <li>Proactividad</li>
+      <li>Creatividad</li>
+      <li>Adaptabilidad</li>
+      <li>Organización</li>
+      <li>Liderazgo</li>
+    </ul>
+  </li>
 </ul>
 
 ## Lenguajes y herramientas :man_technologist:
 
-<p align="left"> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,symfony,laravel,cs,dotnet,mongodb,postgres,mysql" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue,react,vscode,visualstudio" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,git,linux,postman,webpack" /></a>
+<p align="center"> 
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,symfony,laravel,cs,dotnet,mongodb,postgres,mysql,html,css,js,bootstrap,vue,react,vscode" /></a>
+  <a align="center" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,github,git,linux,postman,webpack" /></a>
 </p>
 
 ## Mis proyectos y contribuciones :man_office_worker:
