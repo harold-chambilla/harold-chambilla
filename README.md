@@ -53,7 +53,7 @@
       <img src="https://i.imgur.com/g93w8HU.png" alt="Proyecto 1">
       <h2>Asap Services</h2>
       <p><strong>Rol:</strong> Desarrollador Backend</p>
-      <p><strong>Descripción:</strong> Sistema diseñado para conectar a usuarios con proveedores de servicios en el ámbito del hogar.</p>
+      <p><strong>Descripción:</strong> Aplicativo web para conectar a usuarios con proveedores de servicios en el ámbito del hogar.</p>
     </td>
     <td align="center" width="34%">
       <img src="https://i.imgur.com/P4NHqKz.png" alt="Proyecto 2">
@@ -62,7 +62,7 @@
       <p><strong>Descripción:</strong> Sitio web realizado para brindar servicios de transformación a usuarios.</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://i.imgur.com/tHB1ElU.png" alt="Proyecto 3">
+      <img src="https://i.imgur.com/sWzz0uf.png" alt="Proyecto 3">
       <h2>Eventos</h2>
       <p><strong>Rol:</strong> Full Stack</p>
       <p><strong>Descripción:</strong> Sistema que genera QR por usuario para colaboradores de eventos y ser repartidos a los invitados.</p>
