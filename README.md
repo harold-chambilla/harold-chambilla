@@ -43,7 +43,7 @@
 
 <p align="center"> 
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,symfony,laravel,cs,dotnet,mongodb,postgres,mysql,html,css,js,bootstrap,vue,react,vscode" /></a>
-  <a align="center" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,github,git,linux,postman,webpack" /></a>
+  <a align="center" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,github,git,linux,postman,webpack,figma" /></a>
 </p>
 
 ## Algunos de mis proyectos y contribuciones :man_office_worker:
