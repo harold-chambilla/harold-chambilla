@@ -7,7 +7,7 @@
 <h3 align="center">Passionate developer with experience in modern technologies.</h3>
 
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+and+Systems+Engineering;Web+Developer;Always+learning+new+technologies&center=true&width=1000&height=30"></a>
+ <a href=""><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+and+Systems+Engineering;Web+Developer;Always+learning+new+technologies&center=true&width=1000&height=30"></a>
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
